@@ -27,7 +27,7 @@
     "boxen": "<8",
     "chalk": "<6",
     "change-case": "5.4.2",
-    "prettier": "3.2.4",
+    "prettier": "3.2.5",
     "yaml": "2.3.4",
     "yargs": "17.7.2",
     "yarn": "1.22.21"
